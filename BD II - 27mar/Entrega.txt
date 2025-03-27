@@ -1,0 +1,6 @@
+
+ -- data 10 de abril
+
+ -- um arquivo "pdf" contendo print para "cada comando com sua respectiva execução".
+
+ -- o arquivo ".sql" editado com as soluções para cada enunciado.
